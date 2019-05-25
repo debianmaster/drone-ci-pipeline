@@ -1,6 +1,3 @@
-clone:
-  depth: 1
-
 pipeline:
   INSTALL DEPENDENCIES:
     image: node:8.10
